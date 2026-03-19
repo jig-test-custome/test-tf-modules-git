@@ -1,5 +1,5 @@
 module "private_service" {
-  source = "github.com/jig-test-custome/test-tf-modules?ref=v1.0.0"
+  source = "github.com/jig-test-custome/test-tf-modules?ref=main"
   name   = "my-service"
 }
 
